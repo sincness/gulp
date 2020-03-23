@@ -1,4 +1,4 @@
-# 🎊 Gulp Quick Setup
+# Gulp Quick Setup 🎊
 Gulp Compiler Setup 🌵
 
 > **1.** npm init --y
