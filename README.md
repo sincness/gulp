@@ -1,2 +1,2 @@
-# gulp
-🎊 Gulp Compiler
+# 🎊 Gulp Setup
+Gulp Compiler Setup
